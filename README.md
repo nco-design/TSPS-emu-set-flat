@@ -5,3 +5,5 @@ To use this set, simply paste all the images on your SD card in this folder :
 This set looks better with the theme "Minimal Flat"
 
 You should create a copy of the original "_theme" folder before modifying its content
+
+*I added a .zip file as a release. It is easier to download if you don't know how to use github.*
